@@ -45,6 +45,7 @@ You can also find a completed version of this project in the 'Volunteer Resource
 ## Learning Objectives
 + Lists;
 + Loading list data from a file.
++ Understand the skills which are developed towards a career involving Computing
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
