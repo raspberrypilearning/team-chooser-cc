@@ -18,7 +18,6 @@ version: 3
 last_tested: 2018-04-05
 steps:
 - title: 'Introduction: '
-  completion: engaged
 - title: Players
 - title: 'Challenge: Adding more players'
 - title: Random players
@@ -28,5 +27,4 @@ steps:
 - title: Odd players
 - title: 'Challenge: Random team names'
 - title: 'Challenge: Storing team names'
-  completion: internal
 - title: 'Challenge: More teams'
